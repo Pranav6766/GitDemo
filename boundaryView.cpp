@@ -58,7 +58,7 @@ int main (){
     d->left=h;
     e->left=i;
     e->right=j;
-    g->left=k;
+    //g->left=k;
     
     //boundary view
     //left+leaf+right
